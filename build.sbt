@@ -2,7 +2,7 @@ name := """kingwilliams-geoanagrams"""
 
 version := "1.0"
 
-scalaVersion := "2.12.4"
+scalaVersion := "2.12.17"
 
 libraryDependencies ++= Seq(
   "org.specs2" % "specs2-core_2.12" % "3.8.9" % Test
